@@ -1,0 +1,45 @@
+.banner{
+    background-image:url(Images/lebron.jpg);
+    height: 185px;
+    position: relative;
+    background-position: 0cap;
+}
+
+.box1{
+    border: 1px;
+    border-color: aqua;
+    border-style:hidden;
+    max-width: max-content;
+    float: right;
+    display: inline-block;
+
+}
+
+.box2{
+    border: 1px;
+    border-color: aqua;
+    border-style:hidden;
+    max-width: max-content;
+    float: left;
+    display: inline-block;
+
+}
+
+.body{
+    position: relative;
+    display: block;
+    block-size: auto;
+    width: 1000px;
+    border: 1px;
+    border-color: black;
+    text-align: center;
+    font-size: large;
+    left: 45vh;
+}
+
+#Imgs1{
+ justify-content: center;
+ position:absolute;
+ left: 60vh;
+}
+
